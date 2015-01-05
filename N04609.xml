@@ -111,15 +111,16 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:005726_0000_0000000000000000"/>
-            <pb facs="tcp:005726_0001_0000000000000000" rendition="simple:additions"/>
+            <pb facs="unknown:005726_0000_0000000000000000"/>
+            <pb facs="unknown:005726_0001_0000000000000000"
+                rendition="simple:additions"/>
             <p>AN ADDRESS To the INHABITANTS of NORTH-CAROLINA; OCCASIONED By the difficult Circumstances the Govern<g ref="char:EOLhyphen"/>ment seems to labour under, for Want of a <hi>Medium,</hi> or something to answer in lieu of Money; for the Encourage<g ref="char:EOLhyphen"/>ment of the People, in regard to Business: To which is added, A PROPOSITION for a <hi>Paper-Currency,</hi> whereby the Possessors of the Soil may, in a very honourable Manner, and with cheerful Hearts, discharge their Quit-rents and publick Taxes: And whereby, also, new Life may be given to Trade and Commerce, so far as is necessary; which will be a natural Inducement to the fair Trader to settle and re<g ref="char:EOLhyphen"/>side in the Government, as well as the only Means to propagate Navi<g ref="char:EOLhyphen"/>gation (that necessary Branch of Business) in all its proper Parts.</p>
             <p>WILIIAMSBURG: <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> PARKS, M, DCC, XLVI</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:005726_0002_0000000000000000"/>
+            <pb facs="unknown:005726_0002_0000000000000000"/>
             <head>THE PREFACE TO THE READER.</head>
             <opener>
                <salute>KIND READER,</salute>
@@ -167,7 +168,7 @@
                </gap>eighbours, ourself under an Obligation, and in Duty <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> Counties the like Opportunity to peruse and
-<pb facs="tcp:005726_0003_0000000000000000"/>
+<pb facs="unknown:005726_0003_0000000000000000"/>
 weigh them: For we think them of great Importance, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nd the most proper Method, seeming to us, to put them in Print, and the most likely Way to give the Inhabitants the quickest Knowledge of them; therefore we have taken that Method n<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -187,7 +188,7 @@ weigh them: For we think them of great Importance, <gap reason="illegible" resp=
       </front>
       <body>
          <div type="address">
-            <pb n="1" facs="tcp:005726_0004_0000000000000000"/>
+            <pb n="1" facs="unknown:005726_0004_0000000000000000"/>
             <head>AN ADDRESS To the INHABITANTS of <hi>NORTH-CAROLINA,</hi> &amp;c.</head>
             <p>
                <seg rend="decorInit">I</seg>T is evident. That Mankind is liable to fall into many Casualties, and meet with grievous Misfortunes, in travelling through a howling Wil<g ref="char:EOLhyphen"/>derness, by taking indirect Measures and following wrong Courses: And would it not be high Ingratitude <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -254,7 +255,7 @@ weigh them: For we think them of great Importance, <gap reason="illegible" resp=
                </gap>en to the People? And is it not to be feared, will end or terminate to the R<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>in or
-<pb n="2" facs="tcp:005726_0005_0000000000000000"/>
+<pb n="2" facs="unknown:005726_0005_0000000000000000"/>
 grievous Hurt of many of the Commonalty? However, let that terminate as it may, what is past cannot be revoked; nor can Yest<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rday be recalled: But does it not now (especially at this Juncture) highly behove the Inhabitants, to shape better Courses, and take more direct Measures, respecting a <hi>Medium,</hi> for publick Uses, as well as for Trade and Comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -344,7 +345,7 @@ grievous Hurt of many of the Commonalty? However, let that terminate as it may, 
                   </gap>sh</hi> Establishment) to hear, see, think, speak, and act, rationally, for themselves? Is not the General Assembly of <hi>North-Carolina</hi> constitut<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>d from Home? Does it not consist of three Branches, <hi>to wit,</hi> Governor, Council, and House of Burgesses, in Representation of King, Lords and Commons, in <hi>Great-Britain?</hi> If so, Are not then the House of Burgesses, in <hi>North-Carolina,</hi> one Branch of the Legislature? Are they not elected, to that Service, by the major Vote or Voice of the Commonalty? Are they not thus appointed, by each several
-<pb n="3" facs="tcp:005726_0006_0000000000000000"/>
+<pb n="3" facs="unknown:005726_0006_0000000000000000"/>
 County, in the Province, to give due Attendance at the General <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ssembly, there to appear, as Eyes for the Commonalty, as Ears for the Commonalty, and as Mouths for the Commonalty? And, as they are thus sent forth, as it were, with the Lives and Liberties of the Commonalty in their Hands, to represent and serve the Com<g ref="char:EOLhyphen"/>monalty, in carefully guarding the Country, that no unwholsome Laws be inad<g ref="char:EOLhyphen"/>vertently made, that may prove burthensome and destructive to the Inhabitants; how ess<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -384,7 +385,7 @@ County, in the Province, to give due Attendance at the General <gap reason="ille
                </gap>ights and Difficulti<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>s, and strive hard to relieve them in their Distress, do perhaps care and make Choice of heavy Task-Masters, who lord it over them? And what shall be said then in this Case? Does it
-<pb n="4" facs="tcp:005726_0007_0000000000000000"/>
+<pb n="4" facs="unknown:005726_0007_0000000000000000"/>
 not evidently appear<g ref="char:punc">▪</g> That it is chiefly, if not altogether, owing to the Though<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> and Conduct of the Commonalty, whether they move forward or go backward, whether they stand still, or whether they entirely fall? How highly then does it be<g ref="char:EOLhyphen"/>hove them to double their Diligence, as in Duty bound, for the Interest of their King, the Promotion of his Country, and for their own Good? Can it be supposed there are any, who (knowing the miserable and distressed State the Commonalty la<g ref="char:EOLhyphen"/>bours under) when a solid Proposition is made in General Assembly for the Country's Relief, that will presume to discourage or strike a Death to it, except it be such who are empty or void of Wisdom, Honesty, and common Humanity; even such whose vi<g ref="char:EOLhyphen"/>cious Inclinations move them to think, that by keeping the Commonalty in a State of Poverty and Distress, they may have the greater Opportunity to gull Mankind, reach<g ref="char:EOLhyphen"/>ing, in their Imaginations, after the Fat and the Fleece, when the poor <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -410,7 +411,7 @@ not evidently appear<g ref="char:punc">▪</g> That it is chiefly, if not altoge
                </gap>gard to Trade and Commerce? And how grievously are the Commonalty str<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ightned, in buy<g ref="char:EOLhyphen"/>ing them Necessaries of Life, for want of a proper <hi>Medium?</hi> And how helpless is
-<pb n="5" facs="tcp:005726_0008_0000000000000000"/>
+<pb n="5" facs="unknown:005726_0008_0000000000000000"/>
 the Province in respect to Navigation? Are not the Inhabitants (<gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> want of a pro<g ref="char:EOLhyphen"/>per Navigation in the Government) obliged to purchase all their foreign Necessari<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -574,7 +575,7 @@ the Province in respect to Navigation? Are not the Inhabitants (<gap reason="ill
                   <desc>••</desc>
                </gap>ion.</p>
             <p>
-               <pb n="6" facs="tcp:005726_0009_0000000000000000"/>The foregoing being left to your Consideration, it may not be amiss to say something <gap reason="illegible" resp="#PDCC" extent="2 letters">
+               <pb n="6" facs="unknown:005726_0009_0000000000000000"/>The foregoing being left to your Consideration, it may not be amiss to say something <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>specting a <hi>Paper Currency</hi>; That is to say, on what Footing it may be most proper to put it forth, and how it may be most carfully improved, for the King's Int<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -600,7 +601,7 @@ the Province in respect to Navigation? Are not the Inhabitants (<gap reason="ill
                </gap>rking, and perplexing each other, that by any Means they may procure said Bills, to discharge their Obligations, rather than to lie under the Name or Notion of a Disadvantage? The one, perhaps, in his Streights, sells a Plantation, and another a Yoke of Oxen, the Third a breeding Mare or Cow, under a Notion of getting those Bills of Credit; which Manner of trafficking and trifling away their Time, neither adds to their Lands, nor increases their Cattle, nor cultivates the Earth; the Consequence of which is, that what the one gets, the other must loose: And by thus neglecting their proper Business, their Houshold comes to Poverty and Shame.</p>
             <p>But the other Housholder, wisely considering, that Food and Raiment were all that they wanted to support this Life, and inasmuch as Bills of Credit had no intrin<g ref="char:EOLhyphen"/>sick Value in themselves, and, of Consequence, would be of no Service, except they were made to answer in lieu of Money, to make an even Ballance between Neigh<g ref="char:EOLhyphen"/>bour and Neighbour, for proper Utensils, <hi>&amp;c.</hi> to encourage Industry, whereby to procure Necessaries of Life; he therefore, neither obliged them, nor yet encou<g ref="char:EOLhyphen"/>raged them, to pursue those Bills of Credit, (as pursuing Birds in the Air) neither did he make those Bills their Mark or Center, which, when caught, afforded them neither Food nor Feathers; but wisely made the Necessaries of Life their Mark, and Gold and Silver their Center; obliging them to bring in the said Necessaries of Life, at their just Value, whereby the Houshold were plentifully and cheerfully fur<g ref="char:EOLhyphen"/>nished with the Comforts of Life, and all were encouraged together.</p>
             <p>Well, if this be a proper Comparison, that conveys any Idea, is it not Time then to consider well of what is already written, together with the Tendency of it? and also of the great and mighty Handy-works of the Creation, which are evident to our View, and may teach to any People Knowledge? It is evidently seen that all Sorts of Creatures, of what Kind soever, have, in some Sort, a Scrabble in the World to live and support their Species; some Beasts, in the Wilderness, feed upon Grass, and other Herbs, and some upon other Fruits of the Earth; the Catterpiller spins her Webb on the Oak or Apple Tree, and depends for Food on the Leaves thereof, which come by Nature, (without any Cultivation or Propagation of their
-<pb n="7" facs="tcp:005726_0010_0000000000000000"/>
+<pb n="7" facs="unknown:005726_0010_0000000000000000"/>
 own) and they often times eat themselves out and peris<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>; some Sort of Birds find Use for Hair and Feathers, to build their Nests, others make Use of Sticks; the fishing Hawk is diligent (after her Kind) to get Fish for the Support of hers<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -625,7 +626,7 @@ own) and they often times eat themselves out and peris<gap reason="illegible" re
                   <desc>•</desc>
                </gap>lighty Fowls of the Air, or the creeping Insects which crawl upon the Face of the Earth.</p>
             <p>
-               <pb n="8" facs="tcp:005726_0011_0000000000000000"/>And is it not evident also to our View, that when a Hive of Bees are not shattered nor confused amongst themselves, but having regular Guides to aid them in a pru<g ref="char:EOLhyphen"/>dent Manner, How mutually do<g ref="char:punc">▪</g> they proceed in their Business? whose Interest is inseparable, they being depend<gap reason="illegible" resp="#PDCC" extent="2 letters">
+               <pb n="8" facs="unknown:005726_0011_0000000000000000"/>And is it not evident also to our View, that when a Hive of Bees are not shattered nor confused amongst themselves, but having regular Guides to aid them in a pru<g ref="char:EOLhyphen"/>dent Manner, How mutually do<g ref="char:punc">▪</g> they proceed in their Business? whose Interest is inseparable, they being depend<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>t one on another, in regard to the Preservation and Support of each other; all being engaged and e<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -664,7 +665,7 @@ own) and they often times eat themselves out and peris<gap reason="illegible" re
                </gap> to Proclamation, as established by Parliament, and to go <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>orth upon Loan, on Land Security, for the Encouragement of Industry, and the landed Interests, which it believes every wise Planter to consult: The natural Tendency of which Scheme
-<pb n="9" facs="tcp:005726_0012_0000000000000000"/>
+<pb n="9" facs="unknown:005726_0012_0000000000000000"/>
 (if rightly considered) is, that those Bills of Credit (if wisely negociated) will ter<g ref="char:EOLhyphen"/>minate to the furnishing the publick Treasury with <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>n equivalent Sum, in Gold and Silver, to redeem them; and they also, in the mean Time, be a Means (gradually) to introduce a l<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -701,7 +702,7 @@ own) and they often times eat themselves out and peris<gap reason="illegible" re
                </gap>ke Manner as before described, and so on. By which Means, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> the Affair is prudently
-<pb n="10" facs="tcp:005726_0013_0000000000000000"/>
+<pb n="10" facs="unknown:005726_0013_0000000000000000"/>
 negociated, it evidently appears, (to the Author's Understanding) that at the Expi<g ref="char:EOLhyphen"/>ration of a reasonable Term of Years, the Treasury would be furnished with One Hundred Thousand Pounds, in Gold and Silver, absolutely and clearly gained to the Province, by honest Industry; which will be there a valuable Pledge. (Let this be noted) that this Gold and Silver, so gained, will be lodged in the publick Trea<g ref="char:EOLhyphen"/>sury, a valuable Pledge, which will keep up the Value and Credit of the said Bills; and when ever the Government thinks fit <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>o put a Period to their passing as a <hi>Medium,</hi> the said Gold and Silver is there, ready, to redeem them from those who have them in Possession. Now if this Hundred Thousand Pound<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -723,7 +724,7 @@ negociated, it evidently appears, (to the Author's Understanding) that at the Ex
             </p>
             <p>Hence may also be seen, on due Consideration, That the Streams formerly men<g ref="char:EOLhyphen"/>tioned, which are running out on every Hand, to the impoverishing both Publick and Private, may, by this Scheme, (if honestly pursued and improved) be turned and brought home, proportionably, to every of our Doors; whereby the Welfare of the Country may be credibly recovered, to the Honour of the King, and to the common Comfort of all the Inhabitants.</p>
             <p>And further to evince, That such a Scheme, improved in such a Manner, would have such a Tendency; the following explanatory Accounts are formed, under a Supposition, that a Hundred Thousand Pounds were granted, by Act of Assembly, as aforementioned; and that Ten Thousand Pounds, of the same, were alotted as a proportionable <hi>Quota,</hi> to be negociated by an Agent or Trustee in <hi>Craven</hi> County, for the Account, common Benefit, and Use of the Province of <hi>North-Carolina</hi>; and the Formation of the aforementioned Accounts is introduced by an Account
-<pb n="11" facs="tcp:005726_0014_0000000000000000"/>
+<pb n="11" facs="unknown:005726_0014_0000000000000000"/>
 stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the Province of <hi>North-Carolina</hi> and himself, (Agent or Trustee) in Manner following:
 <table>
                   <head>Province of <hi>North-Carolina,</hi> to and with <hi>Timothy Toaster,</hi> Agent, or Trustee, for <hi>Craven</hi> County.</head>
@@ -863,7 +864,7 @@ stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the 
                   </row>
                </table>
                <table>
-                  <pb n="12" facs="tcp:005726_0015_0000000000000000"/>
+                  <pb n="12" facs="unknown:005726_0015_0000000000000000"/>
                   <head>
                      <hi>Timothy Trimsquare,</hi> of <hi>Craven</hi> County, Planter, his Account with <hi>Timothy Toaster,</hi> Agent for the County aforesaid.</head>
                   <row>
@@ -978,7 +979,7 @@ stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the 
                   </row>
                </table>
                <table>
-                  <pb n="13" facs="tcp:005726_0016_0000000000000000"/>
+                  <pb n="13" facs="unknown:005726_0016_0000000000000000"/>
                   <head>Country Produce, or Manufacture of the Province, as the Law directs, in the Paper Scheme.</head>
                   <row>
                      <cell role="label">
@@ -1108,7 +1109,7 @@ stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the 
                   </row>
                </table>
                <table>
-                  <pb n="14" facs="tcp:005726_0017_0000000000000000"/>
+                  <pb n="14" facs="unknown:005726_0017_0000000000000000"/>
                   <head>
                      <hi>Tom Thumb,</hi> Commander of the Sloop <hi>Rover.</hi>
                   </head>
@@ -1314,7 +1315,7 @@ stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the 
                   </row>
                </table>
                <table>
-                  <pb n="15" facs="tcp:005726_0018_0000000000000000"/>
+                  <pb n="15" facs="unknown:005726_0018_0000000000000000"/>
                   <head>Gold and Silver, for Account of the Province.</head>
                   <row>
                      <cell role="label">
@@ -1415,7 +1416,7 @@ stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the 
                   </row>
                </table>
                <table>
-                  <pb n="16" facs="tcp:005726_0019_0000000000000000"/>
+                  <pb n="16" facs="unknown:005726_0019_0000000000000000"/>
                   <head>
                      <hi>Ie<gap reason="illegible" resp="#PDCC" extent="3 letters">
                            <desc>•••</desc>
@@ -1631,7 +1632,7 @@ stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the 
                   </row>
                </table>
                <table>
-                  <pb n="17" facs="tcp:005726_0020_0000000000000000"/>
+                  <pb n="17" facs="unknown:005726_0020_0000000000000000"/>
                   <head>
                      <hi>Stephen Sagamore,</hi> Commander of the Sloop <hi>Good-Luck.</hi>
                   </head>
@@ -1843,7 +1844,7 @@ stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the 
                   </row>
                </table>
                <table>
-                  <pb n="18" facs="tcp:005726_0021_0000000000000000"/>
+                  <pb n="18" facs="unknown:005726_0021_0000000000000000"/>
                   <head>Goods and Merchandize continues.</head>
                   <row>
                      <cell role="label">
@@ -2051,7 +2052,7 @@ stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the 
                   </row>
                </table>
                <table>
-                  <pb n="19" facs="tcp:005726_0022_0000000000000000"/>
+                  <pb n="19" facs="unknown:005726_0022_0000000000000000"/>
                   <head>Goods and Merchandize continues.</head>
                   <row>
                      <cell role="label">
@@ -2235,7 +2236,7 @@ stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the 
                </table>
             </p>
             <p>
-               <pb n="20" facs="tcp:005726_0023_0000000000000000"/>Thus, from the foregoing Accounts (by diligently negociating one annual Tenth <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb n="20" facs="unknown:005726_0023_0000000000000000"/>Thus, from the foregoing Accounts (by diligently negociating one annual Tenth <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Thousand Pounds, in <hi>Craven</hi> County) is shewn, That in five Times turning the said Thousand Pounds; whether it be accomplished in one Year, or whether it may require more Time than a Year; be that as it may; yet it evidently appears, that by five Turns of said Thousand Pounds, in Trade, there is, thereby, conveyed into the publ<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
@@ -2307,7 +2308,7 @@ stated, by a supposed Agent or Trustee, for <hi>Craven</hi> County, betwixt the 
                </gap>. In the mean Time, it's the Author'<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb n="21" facs="tcp:005726_0024_0000000000000000"/>
+               <pb n="21" facs="unknown:005726_0024_0000000000000000"/>
 Opinion, that the Quitrents may also be discharged in the aforementioned Bills of Credit, in as much as they are equal in Value to Proclamation: And it may, per<g ref="char:EOLhyphen"/>haps, without Difficulty be so ordered, that the Receiver General may, at proper Seasons, exchange them in the Treasury, for Gold and Silver; and when said Bills are so brought home and centered in the Treasury, there arises another Query<g ref="char:punc">▪</g> Whether the same Bills, so brought home as aforesaid, may not, by a new Life given them, by Act of Assembly, be again <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ent out in Manner as formerly, to <gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -2333,7 +2334,7 @@ Opinion, that the Quitrents may also be discharged in the aforementioned Bills o
                   <desc>•</desc>
                </gap>nd the General Assembly?</p>
             <p n="2">
-               <pb n="22" facs="tcp:005726_0025_0000000000000000"/>2<hi>dly,</hi> As you represent each Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="22" facs="unknown:005726_0025_0000000000000000"/>2<hi>dly,</hi> As you represent each Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ty in the Province, as Ears, Eyes, and Mouths for the People, I query th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -2408,7 +2409,7 @@ Opinion, that the Quitrents may also be discharged in the aforementioned Bills o
                   <desc>•</desc>
                </gap> with other Merchandize.</p>
             <p>
-               <pb n="23" facs="tcp:005726_0026_0000000000000000"/>Well, if the Case be so, pray consider then, What does all this amount to? Does it not plainly shew, that we are supporting Navigation, Trade, and Commerce in <hi>New-York,</hi> or other of our neighbouring Governments, who are trading with us, at the Expence of our own Inhabitants, to the impoverishing the Publick, and starving the Private, which tends, eventually, to the Destruction of the whole Province: And I query; At whose Door does the Fault lie, that it is so? Is not this proper Business for you? And that you weightily consider those Affa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+               <pb n="23" facs="unknown:005726_0026_0000000000000000"/>Well, if the Case be so, pray consider then, What does all this amount to? Does it not plainly shew, that we are supporting Navigation, Trade, and Commerce in <hi>New-York,</hi> or other of our neighbouring Governments, who are trading with us, at the Expence of our own Inhabitants, to the impoverishing the Publick, and starving the Private, which tends, eventually, to the Destruction of the whole Province: And I query; At whose Door does the Fault lie, that it is so? Is not this proper Business for you? And that you weightily consider those Affa<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>s, and as carefully pursue proper Remedies? Is it possible for the Government to subsist and keep Pace with the neighbouring Governments, while we are running in those indi<g ref="char:EOLhyphen"/>rect Paths? Is it possible that the Commonalty shall steer cl<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
@@ -2445,7 +2446,7 @@ Opinion, that the Quitrents may also be discharged in the aforementioned Bills o
                </gap>s, and in no wise conducive to establish good and wholesome Governments in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>rovince: Such a Mistake would be inconsistent, in respect to propagating the King's Government, and Interest in it, as it would also be again our own, to be obliged to quit and ne<g ref="char:EOLhyphen"/>glect
-<pb n="24" facs="tcp:005726_0027_0000000000000000"/>
+<pb n="24" facs="unknown:005726_0027_0000000000000000"/>
 our Plantations, and slee to the neighbouring Governments for Relief of Ne<g ref="char:EOLhyphen"/>cessaries, as well as for a <hi>Medium</hi> for Trade and Commerce, perhaps, at 150 <hi>per Cent.</hi> Loss to the Publick; and may we not be well assured, that the King bars you not from acting, encouraging, and supporting his Children? Has he not rather waited, as in Compassion, for several Years, that you might propose something in a proper Manner to answer as a <hi>Medium,</hi> even for his Quit-rents? What stood in your Way? Or what hindered you, that Bill was not prepared and presented to the Upper House, in order to have a Pass to the Governor, for his Assent, with the King's Approbation, to a Proposition well approved of? May we not reasonably conclude, that the King (as a Father<g ref="char:punc">▪</g> hearing of our Poverty, matters not whether a <hi>Medium</hi> be prepared of Paper, Leather out of old Shoes or new ones, provided it be upon a proper Footing, which may tend to propagate and populate his Go<g ref="char:EOLhyphen"/>vernment? But, no doubt, was w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ary of the old Currency, emitted w<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -2485,7 +2486,7 @@ our Plantations, and slee to the neighbouring Governments for Relief of Ne<g ref
                   <desc>•</desc>
                </gap>t evidently be brought to pass, by the Help of the Legisla<g ref="char:EOLhyphen"/>ture, and if any Man or Set of Men, should rise up in Opposition, what can be said of them? Will it not evidently appear<g ref="char:punc">▪</g> that such Opposition must be owing to either Prejudice, Ignorance, or some selfish Views? How can it be construed otherwise? I would therefore offer a Proposition to the Governor, Council, and House of Burgesses, for their Perusal and Consideration:</p>
             <p>
-               <pb n="25" facs="tcp:005726_0028_0000000000000000"/>
+               <pb n="25" facs="unknown:005726_0028_0000000000000000"/>
                <hi>Firstly,</hi> I would propose, That an Agent or Trustee be appointed (by a Majority of Votes) in each County, to provide suitable Store-houses for Merchandize.</p>
             <p>
                <hi>Secondly,</hi> Each Tithable to bring in (annually) for a Term of Years, such a Part of the Produce of his Labour, as you may, discr<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2513,7 +2514,7 @@ our Plantations, and slee to the neighbouring Governments for Relief of Ne<g ref
                   <desc>•</desc>
                </gap> of <hi>North-Carolina,</hi> Man by Man, whether they would chuse to remain in the perplexed State and Condition they are now in, in respect to Trade or Commerce, as well as in regard to paying their Quit-rents and publick Taxes, &amp;c. Or whether they would chuse, rather, to be taxed Five, Ten, or Twenty Pounds <hi>per Annum</hi>
                <g ref="char:punc">▪</g> to promote such a Trade as
-<pb n="26" facs="tcp:005726_0029_0000000000000000"/>
+<pb n="26" facs="unknown:005726_0029_0000000000000000"/>
                <gap reason="illegible" resp="#PDCC" extent="1 page">
                   <desc>〈1 page〉</desc>
                </gap>
